@@ -77,7 +77,7 @@ export default function Example() {
                     <div>
                       <img
                         className="h-8 w-auto"
-                        src="https://tailwindui.com/img/logos/workflow-mark-indigo-600.svg"
+                        src="https://drive.google.com/uc?export=view&id=1LNGgAMbIHPtQPtJXYCbKy-aNzgRnGpaG"
                         alt=""
                       />
                     </div>
@@ -136,7 +136,7 @@ export default function Example() {
       </div>
       <div className="lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2">
         <img
-          className="h-56 w-full object-cover sm:h-72 md:h-96 lg:w-full lg:h-full"
+          className="h-100 w-full object-cover sm:h-72 md:h-96 lg:w-full lg:h-full"
           src="https://drive.google.com/uc?export=view&id=1ajRB8eHPEYQySBotpE29LQDWWYrTIKkn"
           alt=""
         />
