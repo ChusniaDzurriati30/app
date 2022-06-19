@@ -9,6 +9,7 @@ const navigation = [
   { name: 'Dessert', href: 'Dessert' },
   { name: 'Promo', href: 'Promo' },
   { name: 'ContactPerson', href: 'ContactPerson' },
+  { name: 'Api', href: 'Api' },
 ]
 
 export default function Example() {
