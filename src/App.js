@@ -9,7 +9,7 @@ const Hotplate = lazy(() => import('./Hotplate'));
 const Dessert = lazy(() => import('./Dessert'));
 const Promo = lazy(() => import('./Promo'));
 const ContactPerson = lazy(() => import('./ContactPerson'));
-
+const Api= lazy(() => import('./Api'));
 function App() {
   return (
     <Router>
@@ -21,6 +21,7 @@ function App() {
         <Route path="/Dessert" element={<Dessert />} />
         <Route path="/Promo" element={<Promo/>} />
         <Route path="/ContactPerson" element={<ContactPerson />} />
+        <Route path="/Api" element={<Api/>} />
       </Routes>
     </Suspense>
   </Router>
