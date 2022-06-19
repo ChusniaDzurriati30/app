@@ -21,7 +21,6 @@ function App() {
         <Route path="/Dessert" element={<Dessert />} />
         <Route path="/Promo" element={<Promo/>} />
         <Route path="/ContactPerson" element={<ContactPerson />} />
-        <Route path="/Api" element={<Api/>} />
       </Routes>
     </Suspense>
   </Router>
