@@ -9,7 +9,6 @@ const Hotplate = lazy(() => import('./Hotplate'));
 const Dessert = lazy(() => import('./Dessert'));
 const Promo = lazy(() => import('./Promo'));
 const ContactPerson = lazy(() => import('./ContactPerson'));
-const Api= lazy(() => import('./Api'));
 
 function App() {
   return (
