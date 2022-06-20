@@ -2,7 +2,6 @@
   {
     "id": 1,
     "name": "Chusnia Dzurriati",
-    "username": "NIADZ",
     "email": "chusniadzyrriati@yahoo.com",
     "address": {
       "street": "Kulas Light",
@@ -15,7 +14,7 @@
       }
     },
     "phone": "0858-7971-8354",
-    "Alamat": "pemalang",
+    "Massege": "Pesan hotplate beef 1 ",
     "company": {
       "name": "Romaguera-Crona",
       "catchPhrase": "Multi-layered client-server neural-net",
@@ -25,7 +24,6 @@
   {
     "id": 2,
     "name": "Dicky Andrean",
-    "username": "Dicky-Gaming",
     "email": "Dicky@gmail.com",
     "address": {
       "street": "Victor Plains",
@@ -38,7 +36,7 @@
       }
     },
     "phone": "082-2005-8142",
-    "Alamat": "Pemalang",
+    "Massage": "Croufle coklat 2 dan hoplate chicken 1",
     "company": {
       "name": "Deckow-Crist",
       "catchPhrase": "Proactive didactic contingency",
@@ -48,7 +46,7 @@
   {
     "id": 3,
     "name": "Bima Al Tawab",
-    "username": "Bima",
+    
     "email": "Bimatawab@gmail.com",
     "address": {
       "street": "Douglas Extension",
@@ -61,7 +59,7 @@
       }
     },
     "phone": "0878-2524-9031",
-    "Alamat": "Kemranjen",
+    "Massage": "hotplate beef 10",
     "company": {
       "name": "Romaguera-Jacobson",
       "catchPhrase": "Face to face bifurcated interface",
@@ -71,7 +69,6 @@
   {
     "id": 4,
     "name": "Mela Refa Khan",
-    "username": "Revan-12",
     "email": "RevanKhan@gmail.com",
     "address": {
       "street": "Hoeger Mall",
@@ -84,7 +81,7 @@
       }
     },
     "phone": "0878-0413-5926",
-    "Alamat": "Sampang",
+    "Massage": "croufle kacang, hotplate beef masing masing 5",
     "company": {
       "name": "Robel-Corkery",
       "catchPhrase": "Multi-tiered zero tolerance productivity",
@@ -94,7 +91,7 @@
   {
     "id": 5,
     "name": "Rangga-Khan",
-    "username": "Rangga33",
+   
     "email": "RanggaKhan@gmail.com",
     "address": {
       "street": "Skiles Walks",
@@ -107,7 +104,7 @@
       }
     },
     "phone": "(254)954-1289",
-    "Alamat": "Kebumen",
+    "Massage": "croufle coklat 2",
     "company": {
       "name": "Keebler LLC",
       "catchPhrase": "User-centric fault-tolerant solution",
@@ -117,7 +114,7 @@
   {
     "id": 6,
     "name": "Dennis",
-    "username": "Dennis_Gaming",
+   
     "email": "Dennis@gmail.com",
     "address": {
       "street": "Norberto Crossing",
@@ -130,7 +127,7 @@
       }
     },
     "phone": "1-477-935-8478 x6430",
-    "Alamat": "Cilacap",
+    "Massage": "hotplate chickken 2, geprek pedasnya sedang 1",
     "company": {
       "name": "Considine-Lockman",
       "catchPhrase": "Synchronised bottom-line interface",
@@ -140,7 +137,7 @@
   {
     "id": 7,
     "name": "Markonah",
-    "username": "Markonah-Skuy",
+    
     "email": "Markonah@gmail.com",
     "address": {
       "street": "Rex Trail",
@@ -153,7 +150,7 @@
       }
     },
     "phone": "210.067.6132",
-    "Alamat": "Nusawungu",
+    "Massage": "dessert box keju 2",
     "company": {
       "name": "Johns Group",
       "catchPhrase": "Configurable multimedia task-force",
@@ -163,7 +160,7 @@
   {
     "id": 8,
     "name": "Nicholas Runolfsdottir V",
-    "username": "Maxime_Nienow",
+    
     "email": "Sherwood@rosamond.me",
     "address": {
       "street": "Ellsworth Summit",
@@ -176,7 +173,7 @@
       }
     },
     "phone": "586.493.6943 x140",
-    "Alamat": "India",
+    "Massage": "dessert box coklat 1",
     "company": {
       "name": "Abernathy Group",
       "catchPhrase": "Implemented secondary concept",
@@ -186,7 +183,7 @@
   {
     "id": 9,
     "name": "Glenna Reichert",
-    "username": "Delphine",
+    
     "email": "Chaim_McDermott@dana.io",
     "address": {
       "street": "Dayna Park",
@@ -199,7 +196,7 @@
       }
     },
     "phone": "(775)976-6794 x41206",
-    "Alamat": "Purbalingga",
+    "Massage": "hotplate beef 2",
     "company": {
       "name": "Yost and Sons",
       "catchPhrase": "Switchable contextually-based project",
@@ -209,7 +206,7 @@
   {
     "id": 10,
     "name": "Clementina DuBuque",
-    "username": "Moriah.Stanton",
+    
     "email": "Rey.Padberg@karina.biz",
     "address": {
       "street": "Kattie Turnpike",
@@ -222,7 +219,7 @@
       }
     },
     "phone": "024-648-3804",
-    "Alamat": "Purwokerto",
+    "Massage": "crroufle 1 rasa coklat",
     "company": {
       "name": "Hoeger LLC",
       "catchPhrase": "Centralized empowering task-force",
